@@ -1,0 +1,366 @@
+date,text,sentiment_score,source
+2023-01-01,"Prices are reasonable, happy with my shopping.",0.391,social_media
+2023-01-02,"Prices are reasonable, happy with my shopping.",0.549,social_media
+2023-01-03,Great deals at the store today!,0.461,social_media
+2023-01-04,Found good discounts on produce.,0.123,social_media
+2023-01-05,Found good discounts on produce.,0.205,social_media
+2023-01-06,"Prices are reasonable, happy with my shopping.",0.146,social_media
+2023-01-07,Great deals at the store today!,0.459,social_media
+2023-01-08,Great deals at the store today!,0.423,social_media
+2023-01-09,Found good discounts on produce.,0.364,social_media
+2023-01-10,Grocery shopping was pleasant today.,0.245,social_media
+2023-01-11,Great deals at the store today!,0.431,social_media
+2023-01-12,Grocery shopping was pleasant today.,0.43,social_media
+2023-01-13,"Prices are reasonable, happy with my shopping.",0.402,social_media
+2023-01-14,"Prices are reasonable, happy with my shopping.",0.29,social_media
+2023-01-15,Great deals at the store today!,0.323,social_media
+2023-01-16,Found good discounts on produce.,0.211,social_media
+2023-01-17,"Prices are reasonable, happy with my shopping.",0.297,social_media
+2023-01-18,Great deals at the store today!,0.298,social_media
+2023-01-19,Great deals at the store today!,0.276,social_media
+2023-01-20,Great deals at the store today!,0.287,social_media
+2023-01-21,"Prices are reasonable, happy with my shopping.",0.464,social_media
+2023-01-22,"Prices are reasonable, happy with my shopping.",0.158,social_media
+2023-01-23,Great deals at the store today!,0.348,social_media
+2023-01-24,"Prices are reasonable, happy with my shopping.",0.351,social_media
+2023-01-25,Found good discounts on produce.,0.367,social_media
+2023-01-26,"Prices are reasonable, happy with my shopping.",0.263,social_media
+2023-01-27,Grocery shopping was pleasant today.,0.38,social_media
+2023-01-28,Great deals at the store today!,0.066,social_media
+2023-01-29,Great deals at the store today!,0.393,social_media
+2023-01-30,Great deals at the store today!,0.284,social_media
+2023-01-31,Grocery shopping was pleasant today.,0.363,social_media
+2023-02-01,Found good discounts on produce.,0.209,social_media
+2023-02-02,Found good discounts on produce.,0.533,social_media
+2023-02-03,"Prices are reasonable, happy with my shopping.",0.272,social_media
+2023-02-04,"Prices are reasonable, happy with my shopping.",0.534,social_media
+2023-02-05,Grocery shopping was pleasant today.,0.434,social_media
+2023-02-06,Great deals at the store today!,0.292,social_media
+2023-02-07,"Prices are reasonable, happy with my shopping.",0.445,social_media
+2023-02-08,Found good discounts on produce.,0.457,social_media
+2023-02-09,Grocery shopping was pleasant today.,0.353,social_media
+2023-02-10,Found good discounts on produce.,0.213,social_media
+2023-02-11,Found good discounts on produce.,0.394,social_media
+2023-02-12,"Prices are reasonable, happy with my shopping.",0.174,social_media
+2023-02-13,Grocery shopping was pleasant today.,0.337,social_media
+2023-02-14,"Prices are reasonable, happy with my shopping.",0.256,social_media
+2023-02-15,Great deals at the store today!,0.429,social_media
+2023-02-16,Great deals at the store today!,0.363,social_media
+2023-02-17,Grocery shopping was pleasant today.,0.401,social_media
+2023-02-18,Found good discounts on produce.,0.44,social_media
+2023-02-19,Found good discounts on produce.,0.212,social_media
+2023-02-20,"Prices are reasonable, happy with my shopping.",0.343,social_media
+2023-02-21,Found good discounts on produce.,0.13,social_media
+2023-02-22,Found good discounts on produce.,0.185,social_media
+2023-02-23,"Prices are reasonable, happy with my shopping.",0.444,social_media
+2023-02-24,Grocery shopping was pleasant today.,0.261,social_media
+2023-02-25,"Prices are reasonable, happy with my shopping.",0.321,social_media
+2023-02-26,"Prices are reasonable, happy with my shopping.",0.313,social_media
+2023-02-27,Found good discounts on produce.,0.227,social_media
+2023-02-28,Great deals at the store today!,0.343,social_media
+2023-03-01,Found good discounts on produce.,0.444,social_media
+2023-03-02,Found good discounts on produce.,0.46,social_media
+2023-03-03,"Prices are reasonable, happy with my shopping.",0.256,social_media
+2023-03-04,"Prices are reasonable, happy with my shopping.",0.473,social_media
+2023-03-05,Grocery shopping was pleasant today.,0.124,social_media
+2023-03-06,Great deals at the store today!,0.154,social_media
+2023-03-07,"Prices are reasonable, happy with my shopping.",0.477,social_media
+2023-03-08,Grocery shopping was pleasant today.,0.219,social_media
+2023-03-09,"Prices are reasonable, happy with my shopping.",0.231,social_media
+2023-03-10,Grocery shopping was pleasant today.,0.298,social_media
+2023-03-11,"Prices are reasonable, happy with my shopping.",0.196,social_media
+2023-03-12,Great deals at the store today!,0.34,social_media
+2023-03-13,Found good discounts on produce.,0.237,social_media
+2023-03-14,Great deals at the store today!,0.318,social_media
+2023-03-15,"Prices are reasonable, happy with my shopping.",0.252,social_media
+2023-03-16,Grocery shopping was pleasant today.,0.379,social_media
+2023-03-17,Great deals at the store today!,0.111,social_media
+2023-03-18,Grocery shopping was pleasant today.,0.323,social_media
+2023-03-19,"Prices are reasonable, happy with my shopping.",0.2,social_media
+2023-03-20,Grocery shopping was pleasant today.,0.395,social_media
+2023-03-21,Great deals at the store today!,0.433,social_media
+2023-03-22,Great deals at the store today!,0.146,social_media
+2023-03-23,Great deals at the store today!,0.219,social_media
+2023-03-24,"Prices are reasonable, happy with my shopping.",0.195,social_media
+2023-03-25,Grocery shopping was pleasant today.,0.316,social_media
+2023-03-26,Grocery shopping was pleasant today.,-0.012,social_media
+2023-03-27,"Prices are reasonable, happy with my shopping.",0.254,social_media
+2023-03-28,Grocery shopping was pleasant today.,0.4,social_media
+2023-03-29,Found good discounts on produce.,0.386,social_media
+2023-03-30,Found good discounts on produce.,0.332,social_media
+2023-03-31,Found good discounts on produce.,0.29,social_media
+2023-04-01,Great deals at the store today!,0.13,social_media
+2023-04-02,Found good discounts on produce.,0.476,social_media
+2023-04-03,Grocery shopping was pleasant today.,0.261,social_media
+2023-04-04,Found good discounts on produce.,0.33,social_media
+2023-04-05,Grocery shopping was pleasant today.,0.199,social_media
+2023-04-06,Found good discounts on produce.,0.17,social_media
+2023-04-07,Great deals at the store today!,0.131,social_media
+2023-04-08,Great deals at the store today!,0.334,social_media
+2023-04-09,Grocery shopping was pleasant today.,0.277,social_media
+2023-04-10,"Prices are reasonable, happy with my shopping.",0.136,social_media
+2023-04-11,Found good discounts on produce.,0.293,social_media
+2023-04-12,Great deals at the store today!,0.315,social_media
+2023-04-13,"Prices are reasonable, happy with my shopping.",0.403,social_media
+2023-04-14,Found good discounts on produce.,0.264,social_media
+2023-04-15,Found good discounts on produce.,0.104,social_media
+2023-04-16,Found good discounts on produce.,0.097,social_media
+2023-04-17,Grocery shopping was pleasant today.,0.414,social_media
+2023-04-18,"Prices are reasonable, happy with my shopping.",0.463,social_media
+2023-04-19,Great deals at the store today!,0.312,social_media
+2023-04-20,Found good discounts on produce.,0.099,social_media
+2023-04-21,Great deals at the store today!,0.409,social_media
+2023-04-22,Found good discounts on produce.,0.183,social_media
+2023-04-23,Found good discounts on produce.,0.338,social_media
+2023-04-24,"Prices are reasonable, happy with my shopping.",0.303,social_media
+2023-04-25,Great deals at the store today!,0.189,social_media
+2023-04-26,Great deals at the store today!,0.352,social_media
+2023-04-27,Grocery shopping was pleasant today.,0.455,social_media
+2023-04-28,Great deals at the store today!,0.203,social_media
+2023-04-29,Great deals at the store today!,0.166,social_media
+2023-04-30,"Prices are reasonable, happy with my shopping.",0.106,social_media
+2023-05-01,"Prices are reasonable, happy with my shopping.",0.359,social_media
+2023-05-02,Found good discounts on produce.,0.227,social_media
+2023-05-03,Average prices at the supermarket.,-0.04,social_media
+2023-05-04,"Regular shopping trip, nothing changed.",0.111,social_media
+2023-05-05,"Regular shopping trip, nothing changed.",-0.099,social_media
+2023-05-06,Average prices at the supermarket.,0.007,social_media
+2023-05-07,"Regular shopping trip, nothing changed.",-0.056,social_media
+2023-05-08,"Prices seem normal, nothing special.",-0.079,social_media
+2023-05-09,"Regular shopping trip, nothing changed.",-0.042,social_media
+2023-05-10,Typical grocery prices this week.,-0.016,social_media
+2023-05-11,"Prices seem normal, nothing special.",-0.061,social_media
+2023-05-12,"Prices seem normal, nothing special.",-0.016,social_media
+2023-05-13,Average prices at the supermarket.,-0.021,social_media
+2023-05-14,"Regular shopping trip, nothing changed.",0.059,social_media
+2023-05-15,"Regular shopping trip, nothing changed.",-0.018,social_media
+2023-05-16,Average prices at the supermarket.,0.094,social_media
+2023-05-17,Typical grocery prices this week.,-0.042,social_media
+2023-05-18,"Regular shopping trip, nothing changed.",0.015,social_media
+2023-05-19,Typical grocery prices this week.,-0.06,social_media
+2023-05-20,"Prices seem normal, nothing special.",0.098,social_media
+2023-05-21,Average prices at the supermarket.,0.012,social_media
+2023-05-22,Average prices at the supermarket.,0.054,social_media
+2023-05-23,Average prices at the supermarket.,0.016,social_media
+2023-05-24,"Prices seem normal, nothing special.",-0.081,social_media
+2023-05-25,"Regular shopping trip, nothing changed.",0.048,social_media
+2023-05-26,"Regular shopping trip, nothing changed.",0.048,social_media
+2023-05-27,Average prices at the supermarket.,0.023,social_media
+2023-05-28,Typical grocery prices this week.,-0.102,social_media
+2023-05-29,Typical grocery prices this week.,-0.025,social_media
+2023-05-30,Typical grocery prices this week.,-0.003,social_media
+2023-05-31,Average prices at the supermarket.,0.09,social_media
+2023-06-01,Typical grocery prices this week.,-0.095,social_media
+2023-06-02,"Prices seem normal, nothing special.",0.063,social_media
+2023-06-03,"Prices seem normal, nothing special.",0.019,social_media
+2023-06-04,Average prices at the supermarket.,-0.071,social_media
+2023-06-05,Average prices at the supermarket.,-0.123,social_media
+2023-06-06,"Prices seem normal, nothing special.",0.137,social_media
+2023-06-07,"Regular shopping trip, nothing changed.",0.089,social_media
+2023-06-08,Typical grocery prices this week.,-0.056,social_media
+2023-06-09,Average prices at the supermarket.,-0.031,social_media
+2023-06-10,Typical grocery prices this week.,0.086,social_media
+2023-06-11,Typical grocery prices this week.,-0.092,social_media
+2023-06-12,Average prices at the supermarket.,0.13,social_media
+2023-06-13,Typical grocery prices this week.,0.129,social_media
+2023-06-14,Average prices at the supermarket.,0.078,social_media
+2023-06-15,"Prices seem normal, nothing special.",0.046,social_media
+2023-06-16,Typical grocery prices this week.,-0.131,social_media
+2023-06-17,"Regular shopping trip, nothing changed.",-0.022,social_media
+2023-06-18,"Regular shopping trip, nothing changed.",-0.098,social_media
+2023-06-19,"Prices seem normal, nothing special.",-0.141,social_media
+2023-06-20,Average prices at the supermarket.,-0.054,social_media
+2023-06-21,"Regular shopping trip, nothing changed.",-0.078,social_media
+2023-06-22,Average prices at the supermarket.,-0.031,social_media
+2023-06-23,"Regular shopping trip, nothing changed.",0.078,social_media
+2023-06-24,"Regular shopping trip, nothing changed.",0.006,social_media
+2023-06-25,Typical grocery prices this week.,0.09,social_media
+2023-06-26,"Regular shopping trip, nothing changed.",-0.049,social_media
+2023-06-27,"Prices seem normal, nothing special.",-0.063,social_media
+2023-06-28,Typical grocery prices this week.,0.133,social_media
+2023-06-29,"Prices seem normal, nothing special.",0.001,social_media
+2023-06-30,Typical grocery prices this week.,0.015,social_media
+2023-07-01,"Prices seem normal, nothing special.",0.131,social_media
+2023-07-02,Typical grocery prices this week.,-0.016,social_media
+2023-07-03,"Prices seem normal, nothing special.",-0.024,social_media
+2023-07-04,Typical grocery prices this week.,0.066,social_media
+2023-07-05,"Regular shopping trip, nothing changed.",0.031,social_media
+2023-07-06,Typical grocery prices this week.,0.04,social_media
+2023-07-07,"Regular shopping trip, nothing changed.",0.074,social_media
+2023-07-08,Average prices at the supermarket.,0.174,social_media
+2023-07-09,"Regular shopping trip, nothing changed.",-0.099,social_media
+2023-07-10,Average prices at the supermarket.,-0.048,social_media
+2023-07-11,"Prices seem normal, nothing special.",0.119,social_media
+2023-07-12,"Regular shopping trip, nothing changed.",-0.04,social_media
+2023-07-13,"Regular shopping trip, nothing changed.",0.154,social_media
+2023-07-14,"Regular shopping trip, nothing changed.",0.036,social_media
+2023-07-15,Average prices at the supermarket.,0.068,social_media
+2023-07-16,Average prices at the supermarket.,-0.049,social_media
+2023-07-17,"Prices seem normal, nothing special.",0.092,social_media
+2023-07-18,Average prices at the supermarket.,-0.005,social_media
+2023-07-19,Typical grocery prices this week.,0.006,social_media
+2023-07-20,Average prices at the supermarket.,-0.092,social_media
+2023-07-21,Average prices at the supermarket.,-0.056,social_media
+2023-07-22,Typical grocery prices this week.,-0.044,social_media
+2023-07-23,"Prices seem normal, nothing special.",-0.101,social_media
+2023-07-24,"Prices seem normal, nothing special.",-0.005,social_media
+2023-07-25,Typical grocery prices this week.,-0.016,social_media
+2023-07-26,Average prices at the supermarket.,0.048,social_media
+2023-07-27,"Prices seem normal, nothing special.",0.109,social_media
+2023-07-28,Typical grocery prices this week.,0.01,social_media
+2023-07-29,"Prices seem normal, nothing special.",0.008,social_media
+2023-07-30,"Regular shopping trip, nothing changed.",-0.013,social_media
+2023-07-31,Average prices at the supermarket.,0.004,social_media
+2023-08-01,"Regular shopping trip, nothing changed.",-0.046,social_media
+2023-08-02,"Regular shopping trip, nothing changed.",-0.053,social_media
+2023-08-03,Average prices at the supermarket.,-0.062,social_media
+2023-08-04,"Regular shopping trip, nothing changed.",0.029,social_media
+2023-08-05,"Prices seem normal, nothing special.",0.033,social_media
+2023-08-06,"Prices seem normal, nothing special.",-0.019,social_media
+2023-08-07,"Regular shopping trip, nothing changed.",-0.075,social_media
+2023-08-08,Average prices at the supermarket.,-0.138,social_media
+2023-08-09,"Prices seem normal, nothing special.",0.018,social_media
+2023-08-10,"Prices seem normal, nothing special.",0.028,social_media
+2023-08-11,Average prices at the supermarket.,-0.119,social_media
+2023-08-12,"Prices seem normal, nothing special.",0.025,social_media
+2023-08-13,"Regular shopping trip, nothing changed.",0.027,social_media
+2023-08-14,"Regular shopping trip, nothing changed.",0.025,social_media
+2023-08-15,Average prices at the supermarket.,0.017,social_media
+2023-08-16,"Prices seem normal, nothing special.",-0.002,social_media
+2023-08-17,Average prices at the supermarket.,0.055,social_media
+2023-08-18,Average prices at the supermarket.,-0.067,social_media
+2023-08-19,Average prices at the supermarket.,0.071,social_media
+2023-08-20,"Regular shopping trip, nothing changed.",-0.166,social_media
+2023-08-21,"Prices seem normal, nothing special.",-0.076,social_media
+2023-08-22,"Prices seem normal, nothing special.",0.025,social_media
+2023-08-23,Average prices at the supermarket.,0.148,social_media
+2023-08-24,Average prices at the supermarket.,0.105,social_media
+2023-08-25,Average prices at the supermarket.,0.03,social_media
+2023-08-26,"Prices seem normal, nothing special.",0.158,social_media
+2023-08-27,"Regular shopping trip, nothing changed.",-0.021,social_media
+2023-08-28,"Regular shopping trip, nothing changed.",0.108,social_media
+2023-08-29,Typical grocery prices this week.,0.023,social_media
+2023-08-30,"Regular shopping trip, nothing changed.",0.01,social_media
+2023-08-31,Average prices at the supermarket.,-0.141,social_media
+2023-09-01,"Regular shopping trip, nothing changed.",0.065,social_media
+2023-09-02,Prices keep going up every week.,-0.189,social_media
+2023-09-03,Can't believe how much eggs cost!,-0.032,social_media
+2023-09-04,Prices keep going up every week.,-0.238,social_media
+2023-09-05,Everything is so expensive now!,-0.531,social_media
+2023-09-06,Food inflation is getting out of control!,-0.442,social_media
+2023-09-07,Food inflation is getting out of control!,-0.258,social_media
+2023-09-08,Can't believe how much eggs cost!,-0.146,social_media
+2023-09-09,Prices keep going up every week.,-0.18,social_media
+2023-09-10,Had to skip items because too expensive.,-0.239,social_media
+2023-09-11,Prices keep going up every week.,-0.146,social_media
+2023-09-12,Can't believe how much eggs cost!,-0.324,social_media
+2023-09-13,Can't believe how much eggs cost!,-0.356,social_media
+2023-09-14,Had to skip items because too expensive.,-0.154,social_media
+2023-09-15,Prices keep going up every week.,-0.237,social_media
+2023-09-16,Prices keep going up every week.,-0.488,social_media
+2023-09-17,Food inflation is getting out of control!,-0.465,social_media
+2023-09-18,Prices keep going up every week.,-0.444,social_media
+2023-09-19,Can't believe how much eggs cost!,-0.2,social_media
+2023-09-20,Had to skip items because too expensive.,-0.373,social_media
+2023-09-21,Prices keep going up every week.,-0.418,social_media
+2023-09-22,Food inflation is getting out of control!,-0.369,social_media
+2023-09-23,Prices keep going up every week.,-0.351,social_media
+2023-09-24,Food inflation is getting out of control!,-0.23,social_media
+2023-09-25,Prices keep going up every week.,-0.026,social_media
+2023-09-26,Food inflation is getting out of control!,-0.475,social_media
+2023-09-27,Food inflation is getting out of control!,-0.189,social_media
+2023-09-28,Food inflation is getting out of control!,-0.508,social_media
+2023-09-29,Had to skip items because too expensive.,-0.173,social_media
+2023-09-30,Food inflation is getting out of control!,-0.319,social_media
+2023-10-01,Had to skip items because too expensive.,-0.193,social_media
+2023-10-02,Food inflation is getting out of control!,-0.531,social_media
+2023-10-03,Food inflation is getting out of control!,-0.568,social_media
+2023-10-04,Can't believe how much eggs cost!,-0.464,social_media
+2023-10-05,Food inflation is getting out of control!,-0.382,social_media
+2023-10-06,Food inflation is getting out of control!,-0.278,social_media
+2023-10-07,Had to skip items because too expensive.,-0.314,social_media
+2023-10-08,Can't believe how much eggs cost!,-0.308,social_media
+2023-10-09,Can't believe how much eggs cost!,-0.273,social_media
+2023-10-10,Had to skip items because too expensive.,-0.531,social_media
+2023-10-11,Can't believe how much eggs cost!,-0.347,social_media
+2023-10-12,Food inflation is getting out of control!,-0.283,social_media
+2023-10-13,Prices keep going up every week.,-0.304,social_media
+2023-10-14,Food inflation is getting out of control!,-0.188,social_media
+2023-10-15,Prices keep going up every week.,-0.576,social_media
+2023-10-16,Had to skip items because too expensive.,-0.479,social_media
+2023-10-17,Had to skip items because too expensive.,-0.268,social_media
+2023-10-18,Can't believe how much eggs cost!,-0.204,social_media
+2023-10-19,Everything is so expensive now!,-0.219,social_media
+2023-10-20,Had to skip items because too expensive.,-0.147,social_media
+2023-10-21,Prices keep going up every week.,-0.398,social_media
+2023-10-22,Prices keep going up every week.,-0.316,social_media
+2023-10-23,Can't believe how much eggs cost!,-0.248,social_media
+2023-10-24,Food inflation is getting out of control!,-0.266,social_media
+2023-10-25,Food inflation is getting out of control!,-0.342,social_media
+2023-10-26,Food inflation is getting out of control!,-0.443,social_media
+2023-10-27,Everything is so expensive now!,-0.132,social_media
+2023-10-28,Had to skip items because too expensive.,-0.426,social_media
+2023-10-29,Can't believe how much eggs cost!,-0.352,social_media
+2023-10-30,Prices keep going up every week.,-0.279,social_media
+2023-10-31,Everything is so expensive now!,-0.5,social_media
+2023-11-01,Had to skip items because too expensive.,-0.383,social_media
+2023-11-02,Can't believe how much eggs cost!,-0.236,social_media
+2023-11-03,Everything is so expensive now!,-0.173,social_media
+2023-11-04,Everything is so expensive now!,-0.132,social_media
+2023-11-05,Everything is so expensive now!,-0.118,social_media
+2023-11-06,Food inflation is getting out of control!,-0.338,social_media
+2023-11-07,Prices keep going up every week.,-0.082,social_media
+2023-11-08,Can't believe how much eggs cost!,-0.364,social_media
+2023-11-09,Had to skip items because too expensive.,-0.339,social_media
+2023-11-10,Prices keep going up every week.,-0.118,social_media
+2023-11-11,Can't believe how much eggs cost!,-0.205,social_media
+2023-11-12,Can't believe how much eggs cost!,-0.507,social_media
+2023-11-13,Had to skip items because too expensive.,-0.333,social_media
+2023-11-14,Can't believe how much eggs cost!,-0.395,social_media
+2023-11-15,Food inflation is getting out of control!,-0.261,social_media
+2023-11-16,Had to skip items because too expensive.,-0.362,social_media
+2023-11-17,Prices keep going up every week.,-0.241,social_media
+2023-11-18,Prices keep going up every week.,-0.187,social_media
+2023-11-19,Can't believe how much eggs cost!,-0.53,social_media
+2023-11-20,Prices keep going up every week.,-0.187,social_media
+2023-11-21,Had to skip items because too expensive.,-0.227,social_media
+2023-11-22,Food inflation is getting out of control!,-0.258,social_media
+2023-11-23,Prices keep going up every week.,-0.161,social_media
+2023-11-24,Had to skip items because too expensive.,-0.404,social_media
+2023-11-25,Everything is so expensive now!,-0.124,social_media
+2023-11-26,Had to skip items because too expensive.,-0.349,social_media
+2023-11-27,Had to skip items because too expensive.,-0.402,social_media
+2023-11-28,Everything is so expensive now!,-0.223,social_media
+2023-11-29,Can't believe how much eggs cost!,-0.327,social_media
+2023-11-30,Had to skip items because too expensive.,-0.14,social_media
+2023-12-01,Prices keep going up every week.,-0.161,social_media
+2023-12-02,Everything is so expensive now!,-0.205,social_media
+2023-12-03,Prices keep going up every week.,-0.249,social_media
+2023-12-04,Had to skip items because too expensive.,-0.521,social_media
+2023-12-05,Food inflation is getting out of control!,-0.531,social_media
+2023-12-06,Everything is so expensive now!,-0.317,social_media
+2023-12-07,Everything is so expensive now!,-0.608,social_media
+2023-12-08,Had to skip items because too expensive.,-0.172,social_media
+2023-12-09,Can't believe how much eggs cost!,-0.426,social_media
+2023-12-10,Prices keep going up every week.,-0.499,social_media
+2023-12-11,Food inflation is getting out of control!,-0.363,social_media
+2023-12-12,Food inflation is getting out of control!,-0.437,social_media
+2023-12-13,Food inflation is getting out of control!,-0.23,social_media
+2023-12-14,Food inflation is getting out of control!,-0.43,social_media
+2023-12-15,Can't believe how much eggs cost!,-0.405,social_media
+2023-12-16,Had to skip items because too expensive.,-0.433,social_media
+2023-12-17,Had to skip items because too expensive.,-0.189,social_media
+2023-12-18,Can't believe how much eggs cost!,-0.091,social_media
+2023-12-19,Had to skip items because too expensive.,-0.322,social_media
+2023-12-20,Food inflation is getting out of control!,-0.326,social_media
+2023-12-21,Prices keep going up every week.,-0.258,social_media
+2023-12-22,Food inflation is getting out of control!,-0.3,social_media
+2023-12-23,Prices keep going up every week.,-0.167,social_media
+2023-12-24,Everything is so expensive now!,-0.386,social_media
+2023-12-25,Everything is so expensive now!,-0.441,social_media
+2023-12-26,Food inflation is getting out of control!,-0.23,social_media
+2023-12-27,Had to skip items because too expensive.,-0.511,social_media
+2023-12-28,Can't believe how much eggs cost!,-0.207,social_media
+2023-12-29,Prices keep going up every week.,-0.234,social_media
+2023-12-30,Prices keep going up every week.,-0.118,social_media
+2023-12-31,Everything is so expensive now!,-0.513,social_media
